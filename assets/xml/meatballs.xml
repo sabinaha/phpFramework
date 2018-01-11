@@ -1,0 +1,42 @@
+<cookbook version="2">
+    <recipe>
+        <title>Meatballs</title>
+        <ingredient>
+            <li>2 slices fresh white bread</li>
+            <li>¼ c. milk</li>
+            <li>3 tbsp. clarified butter</li>
+            <li>½ c. finely chopped onion</li>
+            <li>1 tsp. kosher salt</li>
+            <li>¾ lb. ground chuck</li>
+            <li>¾ lb. ground pork</li>
+            <li>2 large egg yolks</li>
+            <li>½ tsp. black pepper</li>
+            <li>¼ tsp. ground allspice</li>
+            <li>¼ tsp. freshly grated nutmeg</li>
+            <li>¼ c. all-purpose flour</li>
+            <li>3 c. beef broth</li>
+            <li>¼ c. heavy cream</li>
+        </ingredient>
+        <recipetext>
+            <preptime>30 min</preptime>
+            <cooktime>25 min</cooktime>
+            <totaltime>55 min</totaltime>
+            <li>
+                Preheat oven to 200 degrees F.
+            </li>
+            <li>
+                Tear the bread into pieces and place in a small mixing bowl along with the milk. Set aside.
+            </li>
+            <li>
+                In a 12-inch straight sided saute pan over medium heat, melt 1 tablespoon of the butter. Add the onion and a pinch of salt and sweat until the onions are soft. Remove from the heat and set aside.
+            </li>
+            <li>In the bowl of a stand mixer, combine the bread and milk mixture, ground chuck, pork, egg yolks, 1 teaspoon of kosher salt, black pepper, allspice, nutmeg, and onions. Beat on medium speed for 1 to 2 minutes.</li>
+            <li>Using a scale, weigh meatballs into 1-ounce portions and place on a sheet pan. Using your hands, shape the meatballs into rounds.</li>
+            <li>Heat the remaining butter in the saute pan over medium-low heat, or in an electric skillet set to 250 degrees F. Add the meatballs and saute until golden brown on all sides, about 7 to 10 minutes. Remove the meatballs to an ovenproof dish using a slotted spoon and place in the warmed oven.</li>
+            <li>Once all of the meatballs are cooked, decrease the heat to low and add the flour to the pan or skillet. Whisk until lightly browned, approximately 1 to 2 minutes. Gradually add the beef stock and whisk until sauce begins to thicken. Add the cream and continue to cook until the gravy reaches the desired consistency. Remove the meatballs from the oven, cover with the gravy and serve.</li>
+        </recipetext>
+        <url>http://localhost:8888/tasty/meatballs</url>
+        <imagepath>http://localhost:8888/tasty/assets/images/meatball.jpg</imagepath>
+        <imageurl>http://localhost:8888/tasty//assets/images/meatball.jpg</imageurl>
+    </recipe>
+</cookbook>

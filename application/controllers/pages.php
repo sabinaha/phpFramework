@@ -6,6 +6,11 @@
 			}
 
 			$data['title'] = ucfirst($page);
+
+            if($page == 'meatballs' || $page == 'pancake') {
+                $this->load->helper('xml_helper');
+            }
+
             $data['comments'] = $this->comments_model->get_comments();
 
 			$this->load->view('templates/header');
